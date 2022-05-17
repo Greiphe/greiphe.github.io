@@ -41,8 +41,6 @@
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/profile.png" alt="A Empresa Greiph"/>
-                <!-- Masthead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0">Greiph</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -128,7 +126,7 @@
         <!-- Portfolio Modal 1-->
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
             <div class="modal-dialog modal-xl">
-                <div class="modal-content">
+                <div class="modal-content portfolioback">
                     <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
                     <div class="modal-body text-center pb-5">
                         <div class="container">
@@ -145,7 +143,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/tethras.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">O “INSTITUTO EDUCACIONAL TETHRAS” foi criado para você que procura tudo em eficiência e
+                                    <p class="mb-4 ">O “INSTITUTO EDUCACIONAL TETHRAS” foi criado para você que procura tudo em eficiência e
 										inovação. Cada detalhe, foi desenvolvido pensando em sua satisfação e sucesso profissional. Somos
 										destaques, justamente porque utilizamos o princípio da transparência para com nossos discentes.
 										O propósito do “INSTITUTO EDUCACIONAL TETHRAS” é aproximar ao máximo o contato com a realidade que o
@@ -365,31 +363,31 @@
                         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                             <!-- Name input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
+                                <input class="form-control forms text-dark" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
                                 <label for="name">Nome Completo</label>
                                 <div class="invalid-feedback" data-sb-feedback="name:required">Escreva seu nome.</div>
                             </div>
                             <!-- Email address input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
+                                <input class="form-control forms text-dark" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
                                 <label for="email">Email</label>
                                 <div class="invalid-feedback" data-sb-feedback="email:required">Email Invalido.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email"></div>
                             </div>
                             <!-- Phone number input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
+                                <input class="form-control forms text-dark" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
                                 <label for="phone">Telefone</label>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required"> Número Invalido.</div>
                             </div>
                             <!-- Message input-->
                             <div class="form-floating mb-3">
-                                <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
+                                <textarea class="form-control forms text-dark" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
                                 <label for="message">Mesagem</label>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">Escreva uma menssagem.</div>
                             </div>
                             <div class="d-none" id="submitSuccessMessage">
-                                <div class="text-center mb-3">
+                                <div class="text-center mb-3 forms text-success">
                                     <div class="fw-bolder">Enviado com sucesso!</div>
                                 </div>
                             </div>
@@ -415,14 +413,14 @@
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Rede Socias</h4>
-						<a class="btn btn-success btn-social mx-2" target="_blank" href="https://www.instagram.com/greife_silva/"><i class="fab fa-instagram"></i></a>
+						<a class="btn btn-success btn-social mx-2" target="_blank" href="https://www.instagram.com/greiph7/"><i class="fab fa-instagram"></i></a>
                         <a class="btn btn-success btn-social mx-2" target="_blank" href="https://www.facebook.com/profile.php?id=100013521277438"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-success btn-social mx-2" target="_blank" href="https://www.linkedin.com/in/greiph-silva-1b548921a/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="btn btn-success btn-social mx-2" target="_blank" href="https://github.com/Greiphe"><i class="fab fa-github"></i></a>
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Voltar ao inicio</h4>
-						<a class="btn btn-success btn-social mx-2" href="#page-top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+						<a class="btn backtop btn-social mx-2" href="#page-top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
                     </div>
                     <!-- Footer About Text-->
                 </div>
