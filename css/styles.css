@@ -11504,6 +11504,13 @@ a:hover {
     text-decoration: none;
 }
 
+.ladoA{
+	position: left;
+}
+.ladoB{
+	position: right;
+}
+
 .backtop{
 	background-color:#F6E1C5;
 }
