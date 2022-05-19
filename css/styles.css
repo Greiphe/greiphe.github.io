@@ -11504,15 +11504,18 @@ a:hover {
     text-decoration: none;
 }
 
-.ladoA{
-	position: left;
-}
-.ladoB{
-	position: right;
-}
 
 .experiencia{
 	background-color: #2E170F;
+
+}
+
+.comp-exper-hard{
+	background-color: #F6E1C5;
+}
+
+.comp-exper-soft{
+	background-color: #F6E1C5;
 
 }
 
@@ -11522,6 +11525,37 @@ a:hover {
 .portfolioback{
 	background-color: #E4E4E4;
 }
+.comp1{
+	background-color:#198754;
+}
+.comp2{
+	background-color:#FFC107;
+}
+.comp3{
+	background-color:#0DCAF0;
+}
+.comp4{
+	background-color: #6F3BBB;
+}
+.comp5{
+	background-color:#61463F;
+}
+.comp6{
+	background-color:#2F2F91;
+}
+.comp7{
+	background-color:#198754;
+}
+.comp8{
+	background-color:#4D4D4D;
+}
+.comp9{
+	background-color:#8F3232;
+}
+.comp10{
+	background-color: #800080;
+}
+
 .forms{
 	background-color:#F6E1C5;
 }
