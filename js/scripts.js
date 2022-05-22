@@ -45,3 +45,8 @@ window.addEventListener('DOMContentLoaded', event => {
 });
 
 
+
+$('.carousel').carousel({
+  interval: 2000
+});
+

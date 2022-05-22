@@ -11496,6 +11496,17 @@ html {
     line-height: 2.5rem;
   }
 }
+
+.events{
+	background-color:#F6E1C5;
+
+}
+
+.service{
+	background-color:#D3994F;
+
+}
+
 a {
     text-decoration: none;
 }
@@ -11569,5 +11580,4 @@ a:hover {
 .copyright {
   background-color: #1a252f;
 }
-
 
