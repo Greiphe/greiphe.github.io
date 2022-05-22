@@ -11503,8 +11503,16 @@ html {
 }
 
 .service{
-	background-color:#D3994F;
+	background-color:#CBA487;
 
+}
+
+.itemcircle{
+	color:#F6E1C5;
+}
+
+.stylecircle{
+	color:#2E170F;
 }
 
 a {
