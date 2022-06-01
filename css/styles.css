@@ -11557,33 +11557,43 @@ a:hover {
 	background-color: #E4E4E4;
 }
 .comp1{
+  overflow: visible;
 	background-color:#198754;
 }
 .comp2{
+  overflow: visible;
 	background-color:#FFC107;
 }
 .comp3{
+  overflow: visible;
 	background-color:#0DCAF0;
 }
 .comp4{
-	background-color: #6F3BBB;
+  overflow: visible;
+  background-color: #6F3BBB;
 }
 .comp5{
-	background-color:#61463F;
+	overflow: visible;
+  background-color:#61463F;
 }
 .comp6{
-	background-color:#2F2F91;
+	overflow: visible;
+  background-color:#2F2F91;
 }
 .comp7{
+  overflow: visible;
 	background-color:#198754;
 }
 .comp8{
+  overflow: visible;
 	background-color:#4D4D4D;
 }
 .comp9{
+  overflow: visible;
 	background-color:#8F3232;
 }
 .comp10{
+  overflow: visible;
 	background-color: #800080;
 }
 
