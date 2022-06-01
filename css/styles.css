@@ -11524,6 +11524,7 @@ a:hover {
 }
 
 
+
 .experiencia{
 	background-color: #2E170F;
 
@@ -11532,6 +11533,14 @@ a:hover {
 .experienciaback{
 	background-color:#CBA487;
 
+}
+
+.sobre{
+  text-align: justify;
+}
+
+.telefone{
+  transform:rotate(90deg) ;
 }
 
 .contato{
