@@ -11565,6 +11565,11 @@ a:hover {
 .portfolioback{
 	background-color: #E4E4E4;
 }
+.bordatabela{
+  border: solid 5px ;
+  border-color: #F6E1C5;
+  border-radius: 15px;
+}
 .comp1{
   overflow: visible;
 	background-color:#198754;
@@ -11579,11 +11584,11 @@ a:hover {
 }
 .comp4{
   overflow: visible;
-  background-color: #6F3BBB;
+  background-color : #6F3BBB;
 }
 .comp5{
 	overflow: visible;
-  background-color:#61463F;
+  background-color: #61463F;
 }
 .comp6{
 	overflow: visible;
@@ -11591,7 +11596,7 @@ a:hover {
 }
 .comp7{
   overflow: visible;
-	background-color:#198754;
+	background-color:#FFC107;
 }
 .comp8{
   overflow: visible;
@@ -11604,6 +11609,10 @@ a:hover {
 .comp10{
   overflow: visible;
 	background-color: #800080;
+}
+.comp11{
+  overflow: visible;
+	background-color:#8F3232;
 }
 
 .forms{
