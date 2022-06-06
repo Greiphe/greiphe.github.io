@@ -11553,15 +11553,19 @@ a:hover {
 
 .comp-exper-hard{
 	background-color: #F6E1C5;
+  width: 22rem;
+  height: 26rem;
 }
 .comp-exper-curse{
   background-color: #F6E1C5;
-  border: solid 10px;
-  border-radius: 20px;
-  border-color: #CBA487;
+  width: 22rem;
+  height: 26rem;
+
 }
 .comp-exper-soft{
 	background-color: #F6E1C5;
+  width: 22rem;
+  height: 26rem;
 }
 
 .backtop{
