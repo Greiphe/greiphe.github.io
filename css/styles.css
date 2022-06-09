@@ -11496,45 +11496,34 @@ html {
     line-height: 2.5rem;
   }
 }
-
+.designer{
+  background-color:#2E170F;
+  color:#f8f9fa;
+}
 .events{
 	background-color:#F6E1C5;
-
 }
-
 .service{
 	background-color:#CBA487;
-
 }
-
 .itemcircle{
 	color:#F6E1C5;
 }
-
 .stylecircle{
 	color:#2E170F;
 }
-
 a {
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: none;
 }
-
-
-
 .experiencia{
 	background-color: #fcf8e3;
-
 }
-
 .experienciaback{
 	background-color:#CBA487;
-
 }
-
 .sobre{
   text-align: justify;
 }
@@ -11553,19 +11542,17 @@ a:hover {
 
 .comp-exper-hard{
 	background-color: #F6E1C5;
-  width: 22rem;
-  height: 26rem;
+  width: 360px;
+
 }
 .comp-exper-curse{
   background-color: #F6E1C5;
-  width: 22rem;
-  height: 26rem;
+  width: 360px;
 
 }
 .comp-exper-soft{
 	background-color: #F6E1C5;
-  width: 22rem;
-  height: 26rem;
+  width: 360px;
 }
 
 .backtop{
